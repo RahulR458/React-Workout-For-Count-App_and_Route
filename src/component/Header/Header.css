@@ -1,0 +1,15 @@
+header{
+    background-color: #708994;
+    width: 100%;
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+header a{
+    color: #000000;
+    text-decoration: none;
+    font-size: 18px;
+    margin: 0 15px;
+}
