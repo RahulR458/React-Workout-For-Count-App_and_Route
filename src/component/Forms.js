@@ -17,7 +17,7 @@ export default class Forms extends Component {
     onSubmit = ()=>{
         console.log(this.state);
     }
-
+ 
   render() {
     return (
      <form>
