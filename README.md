@@ -1,1 +1,1 @@
-This is react count app and component route for study
+This is react count app and route for study
