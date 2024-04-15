@@ -2,7 +2,7 @@
   "name": "workout",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://RahulR458.github.io/React-Count-App",
+  "homepage": "http://RahulR458.github.io/React-Workout-For-Count-App_and_Route",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
